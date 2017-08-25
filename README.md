@@ -19,6 +19,7 @@ You can follow me on [Twitter](https://twitter.com/ThodorisBais).
 
 ## Career
 * [16 Don'ts of Career Growth](http://www.yegor256.com/2017/01/24/career-advice.html?utm_content=buffer4719b&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) - Yegor Bugayenko
+* [The Difference Between Amateurs and Professionals](https://www.farnamstreetblog.com/2017/08/amateurs-professionals/) - Farnam Street Blog
 
 ## Entrepreneurship
 * [10 Things to Do in your 20s to be a Millionaire by 30](http://www.wealthtriumph.com/10-things-20s-millionaire-30/?utm_content=buffer33c6b&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer) - Ilias Tsagklis
