@@ -22,6 +22,9 @@ You can follow me on [Twitter](https://twitter.com/ThodorisBais).
 * [The Difference Between Amateurs and Professionals](https://www.farnamstreetblog.com/2017/08/amateurs-professionals/) - Farnam Street Blog
 * [The Software Developer’s Guide to Work / Life Balance](https://simpleprogrammer.com/2017/03/20/work-life-balance/) - John Sonmez
 
+## Leadership
+* [12 Essential Habits of Exceptional Leaders](http://www.huffingtonpost.com/entry/12-essential-habits-of-exceptional-leaders_us_59667c52e4b0524d8fa7fa7b) - Travis Bradberry
+
 ## Entrepreneurship
 * [10 Things to Do in your 20s to be a Millionaire by 30](http://www.wealthtriumph.com/10-things-20s-millionaire-30/?utm_content=buffer33c6b&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer) - Ilias Tsagklis
 * [16 Things Your Successful Friends Have Given Up](https://www.linkedin.com/pulse/16-things-your-successful-friends-have-given-up-tim-denning?trk=v-feed&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3Bg9W%2FygbgIwQOFwOmPFXviA%3D%3D) - Tim Denning
