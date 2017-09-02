@@ -17,6 +17,9 @@ You can follow me on [Twitter](https://twitter.com/ThodorisBais).
 * [How To Kickstart A Great Scrum Team (10 practical things to do)](https://www.linkedin.com/pulse/how-kickstart-great-scrum-team-10-practical-things-do-verwijs?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BtvoU%2Ft9bQPagK2kmoU4CEQ%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_feed-object) - Christiaan Verwijs
 * [Three Mistakes Scrum Masters Make and How to Correct Them](https://www.mountaingoatsoftware.com/blog/three-mistakes-scrum-masters-make-and-how-to-correct-them) - Mike Cohn
 
+## Open Source
+* [Why Do You Contribute to Open Source?](http://www.yegor256.com/2017/05/30/why-contribute-to-open-source.html?utm_content=buffer9e097&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer) - Yegor Bugayenko
+
 ## Career
 * [16 Don'ts of Career Growth](http://www.yegor256.com/2017/01/24/career-advice.html?utm_content=buffer4719b&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) - Yegor Bugayenko
 * [The Difference Between Amateurs and Professionals](https://www.farnamstreetblog.com/2017/08/amateurs-professionals/) - Farnam Street Blog
