@@ -32,6 +32,9 @@ You can follow me on [Twitter](https://twitter.com/ThodorisBais).
 * [10 Things to Do in your 20s to be a Millionaire by 30](http://www.wealthtriumph.com/10-things-20s-millionaire-30/?utm_content=buffer33c6b&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer) - Ilias Tsagklis
 * [16 Things Your Successful Friends Have Given Up](https://www.linkedin.com/pulse/16-things-your-successful-friends-have-given-up-tim-denning?trk=v-feed&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3Bg9W%2FygbgIwQOFwOmPFXviA%3D%3D) - Tim Denning
 
+## Health
+* [StrongLifts 5×5: The Simplest, Most Effective Workout To Build Muscle, Gain Strength and Get Ripped](https://stronglifts.com/5x5/) - Mehdi
+
 ## Society
 * [The Ancient Greeks Recognized 7 Types of Love – Which Defines You?](http://unisoultheory.com/index.php/2017/02/02/ancient-greeks-types-of-love/) - Robyn Reisch
 
