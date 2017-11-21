@@ -34,6 +34,7 @@ You can follow me on [Twitter](https://twitter.com/ThodorisBais).
 
 ## Health
 * [StrongLifts 5×5: The Simplest, Most Effective Workout To Build Muscle, Gain Strength and Get Ripped](https://stronglifts.com/5x5/) - Mehdi
+* [The Science of Sleep: A Brief Guide on How to Sleep Better Every Night](https://jamesclear.com/sleep) - James Clear
 
 ## Society
 * [The Ancient Greeks Recognized 7 Types of Love – Which Defines You?](http://unisoultheory.com/index.php/2017/02/02/ancient-greeks-types-of-love/) - Robyn Reisch
