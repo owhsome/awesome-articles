@@ -14,8 +14,12 @@ You can follow me on [Twitter](https://twitter.com/ThodorisBais).
 * [Quants: The Rocket Scientists Of Wall Street](http://www.investopedia.com/articles/financialcareers/08/quants-quantitative-analyst.asp) - Tristan Yates
 
 ## Java
-* [How to become a Java Champion](https://vladmihalcea.com/2017/11/27/how-to-become-a-java-champion/#more-8496) - Vlad Mihalcea
 * [100 High-Quality Java Developers’ Blogs](https://www.programcreek.com/2012/11/top-100-java-developers-blogs/)
+
+## Java Champion
+* [How to become a Java Champion](https://vladmihalcea.com/2017/11/27/how-to-become-a-java-champion/#more-8496) - Vlad Mihalcea
+* [How Can I Become a Champion Programmer?](https://www.javaspecialists.eu/archive/Issue227.html) - Heinz Kabutz
+* [I am a champion, my friends](https://antoniogoncalves.org/2009/07/09/i-am-a-champion-my-friends/) - Antonio Goncalves
 
 ## Scrum
 * [How To Kickstart A Great Scrum Team (10 practical things to do)](https://www.linkedin.com/pulse/how-kickstart-great-scrum-team-10-practical-things-do-verwijs?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BtvoU%2Ft9bQPagK2kmoU4CEQ%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_feed-object) - Christiaan Verwijs
