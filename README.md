@@ -13,6 +13,10 @@ You can follow me on [Twitter](https://twitter.com/ThodorisBais).
 * [How I Became a Better Programmer](http://jlongster.com/How-I-Became-Better-Programmer) - James Long.
 * [Quants: The Rocket Scientists Of Wall Street](http://www.investopedia.com/articles/financialcareers/08/quants-quantitative-analyst.asp) - Tristan Yates
 
+## Java
+* [How to become a Java Champion](https://vladmihalcea.com/2017/11/27/how-to-become-a-java-champion/#more-8496) - Vlad Mihalcea
+* [100 High-Quality Java Developers’ Blogs](https://www.programcreek.com/2012/11/top-100-java-developers-blogs/)
+
 ## Scrum
 * [How To Kickstart A Great Scrum Team (10 practical things to do)](https://www.linkedin.com/pulse/how-kickstart-great-scrum-team-10-practical-things-do-verwijs?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BtvoU%2Ft9bQPagK2kmoU4CEQ%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_feed-object) - Christiaan Verwijs
 * [Three Mistakes Scrum Masters Make and How to Correct Them](https://www.mountaingoatsoftware.com/blog/three-mistakes-scrum-masters-make-and-how-to-correct-them) - Mike Cohn
