@@ -15,6 +15,7 @@ You can follow me on [Twitter](https://twitter.com/ThodorisBais).
 
 ## Java
 * [100 High-Quality Java Developers’ Blogs](https://www.programcreek.com/2012/11/top-100-java-developers-blogs/)
+* [op 10 Java Blogs for Programmers of All Levels](https://stackify.com/java-blogs-for-programmers-of-all-levels/) - Ben Putano
 
 ## Java Champion
 * [How to become a Java Champion](https://vladmihalcea.com/2017/11/27/how-to-become-a-java-champion/#more-8496) - Vlad Mihalcea
