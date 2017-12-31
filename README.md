@@ -54,4 +54,5 @@ You can follow me on [Twitter](https://twitter.com/ThodorisBais).
 ## Success
 * [How These Hidden Excuses Are Standing In The Way Of Your Success](https://www.linkedin.com/pulse/how-hidden-excuses-standing-way-your-success-tim-denning?trk=v-feed&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BZuU2zASrl3%2Bu2iSGXlfTTw%3D%3D) - Tim Denning
 * [13 Things You Should Give Up If You Want To Be Successful](https://medium.com/personal-growth/13-things-you-need-to-give-up-if-you-want-to-be-successful-44b5b9b06a26) - Zdravko Cvijetic
+* [How to Unlock Your Productivity with Attention Management](https://www.thriveglobal.com/stories/17585-how-to-unlock-your-productivity-with-attention-management) - Maura Thomas
 
