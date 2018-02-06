@@ -15,7 +15,8 @@ You can follow me on [Twitter](https://twitter.com/ThodorisBais).
 
 ## Java
 * [100 High-Quality Java Developers’ Blogs](https://www.programcreek.com/2012/11/top-100-java-developers-blogs/)
-* [op 10 Java Blogs for Programmers of All Levels](https://stackify.com/java-blogs-for-programmers-of-all-levels/) - Ben Putano
+* [Top 10 Java Blogs for Programmers of All Levels](https://stackify.com/java-blogs-for-programmers-of-all-levels/) - Ben Putano
+* [Android is Solid](https://magdamiu.com/2018/01/13/android-is-solid/) - Magda Miu
 
 ## Java Champion
 * [How to become a Java Champion](https://vladmihalcea.com/2017/11/27/how-to-become-a-java-champion/#more-8496) - Vlad Mihalcea
