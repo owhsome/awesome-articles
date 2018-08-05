@@ -61,3 +61,6 @@ You can follow me on [Twitter](https://twitter.com/ThodorisBais).
 ## Copyrights
 * [Developers' side projects](https://www.joelonsoftware.com/2016/12/09/developers-side-projects/) - Joel Spolsky
 
+## Languages
+* [16 Recommended TV Programmes for Learning Dutch](https://amsterdam-mamas.nl/articles/16-recommended-tv-programmes-learning-dutch) - JOSKA KRUIJSSEN
+
