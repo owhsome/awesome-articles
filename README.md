@@ -52,6 +52,7 @@ You can follow me on [Twitter](https://twitter.com/ThodorisBais).
 
 ## Language
 * [100 Things You Can Do To Improve Your English](http://www.langports.com/100-things-you-can-do-to-improve-your-english/) - Hester
+* [16 Recommended TV Programmes for Learning Dutch](https://amsterdam-mamas.nl/articles/16-recommended-tv-programmes-learning-dutch) - JOSKA KRUIJSSEN
 
 ## Success
 * [How These Hidden Excuses Are Standing In The Way Of Your Success](https://www.linkedin.com/pulse/how-hidden-excuses-standing-way-your-success-tim-denning?trk=v-feed&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BZuU2zASrl3%2Bu2iSGXlfTTw%3D%3D) - Tim Denning
@@ -60,7 +61,4 @@ You can follow me on [Twitter](https://twitter.com/ThodorisBais).
 
 ## Copyrights
 * [Developers' side projects](https://www.joelonsoftware.com/2016/12/09/developers-side-projects/) - Joel Spolsky
-
-## Languages
-* [16 Recommended TV Programmes for Learning Dutch](https://amsterdam-mamas.nl/articles/16-recommended-tv-programmes-learning-dutch) - JOSKA KRUIJSSEN
 
